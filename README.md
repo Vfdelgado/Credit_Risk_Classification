@@ -58,3 +58,7 @@ Although the model's precision and recall for high-risk loans are slightly lower
 Support Size:
 The lower support size for high-risk loans highlights the importance of precision in lending decisions, especially for loans with a higher risk of default.
 Based on the model's performance, it is recommended for use by the company, particularly for assessing the credit risk associated with loans. However, continuous monitoring and potential model refinement should be considered to further enhance its effectiveness, especially for high-risk loans.
+
+### Resources
+
+Class activities, online resources.
